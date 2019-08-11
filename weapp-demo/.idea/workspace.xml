@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3429965c-4046-41a0-8878-b73793855fdb" name="Default Changelist" comment="">
+      <change afterPath="$USER_HOME$/Desktop/html_project/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/.idea/html_project.iml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/jQuery/get_text.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/jQuery/set_text.html" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/.babelrc" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/.eslintrc.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/.gitignore" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/.travis.yml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/LICENSE" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/README.en.md" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/README.md" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/gulpfile.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/package.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/project.config.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/README.md" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/app.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/app.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/app.less" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/arrowright.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/board-actived.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/board.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/home-actived.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/home.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/loading.gif" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/note-actived.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/note.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/profile-actived.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/profile.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/qrcode.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/safari-actived.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/safari.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/search-actived.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/search.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/star-actived.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/star.png" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/images/wechat.jpg" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/board/board.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/board/board.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/board/board.less" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/board/board.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/common/movie-list.less" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/common/movie-list.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/item/item.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/item/item.less" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/item/item.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/list/list.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/list/list.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/list/list.less" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/list/list.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/profile/profile.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/profile/profile.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/profile/profile.less" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/profile/profile.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/search/search.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/search/search.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/search/search.less" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/search/search.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/splash/splash.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/splash/splash.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/splash/splash.less" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/pages/splash/splash.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/utils/baidu.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/utils/douban.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/utils/fetch.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/utils/util.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/src/utils/wechat.js" afterDir="false" />
+      <change afterPath="$USER_HOME$/Desktop/html_project/weapp-demo/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/Desktop/html_project/weapp-demo" />
+  </component>
+  <component name="ProjectId" id="1PGba2O7Vd7CnVrF7kQ5gPgDKkc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\25069\Desktop\html_project" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3429965c-4046-41a0-8878-b73793855fdb" name="Default Changelist" comment="" />
+      <created>1565503440008</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565503440008</updated>
+      <workItem from="1565503441505" duration="1358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
